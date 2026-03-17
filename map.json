@@ -1,0 +1,7 @@
+{
+  "BENIGN": "BENIGN",
+  "DoS": "DoS",
+  "Probe": "Probe",
+  "R2L": "R2L",
+  "U2R": "U2R"
+}
